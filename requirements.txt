@@ -1,0 +1,2 @@
+apt install scapy or dnf install scapy
+apt install tkinter or dnf install python3-tkinter
